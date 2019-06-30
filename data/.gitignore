@@ -1,0 +1,5 @@
+# IP addresses to be plotted
+/ips.txt
+
+# Geolocation database
+/geodb.mmdb
