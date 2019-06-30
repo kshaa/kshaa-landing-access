@@ -37,6 +37,4 @@ Render access map
 ## Notes
 - Nix & R inspiration - [Mozilla "A truly reproducible research paper"](https://mozillafoundation.github.io/2017-fellows-sf/re-papers/)   
 - Nix & R usage information - [NixOS Wiki "R"](https://nixos.wiki/wiki/R#With_nix-shell)  
-- `/src/geodb.mmdb` comes from [MaxMind GeoLite2 downloads](https://dev.maxmind.com/geoip/geoip2/geolite2/#Downloads)  
-- `/src/ips.txt` comes from an instance of [kshaa/koa-flat-landing](https://github.com/kshaa/koa-flat-landing) access logs  
 - Information about map plots with R - ["RStudio - Leaflet"](https://rstudio.github.io/leaflet/)  
